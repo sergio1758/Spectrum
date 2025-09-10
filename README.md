@@ -20,4 +20,4 @@ Spectrum is a modern and intuitive web-based color picker tool designed for deve
 
 ## Screenshots
 
-![Spectrum Color Picker Screenshot](images\GitHubCard.png) 
+![GithubCard](images\GitHubCard.png) 
